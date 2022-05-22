@@ -160,5 +160,7 @@ void main() {
 	HDD mydisc;
 	createFile(mydisc, new char[10] {"a.txt"}, new char[20] {"Salam Millet"});
 	createFile(mydisc, new char[10] {"a.txt"}, new char[20] {"Salam Millet"});
+	createFile(mydisc, new char[10] {"a.txt"}, new char[20] {"Salam Millet"});
+	createFile(mydisc, new char[10] {"a.txt"}, new char[20] {"Salam Millet"});
 
 }
