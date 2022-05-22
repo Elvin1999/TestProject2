@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\XelilBitWise\XelilBitWise\Source.cpp(93,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\XelilBitWise\XelilBitWise\Source.cpp(104,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\XelilBitWise\XelilBitWise\Source.cpp(147,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  XelilBitWise.vcxproj -> C:\Users\User\source\repos\XelilBitWise\Debug\XelilBitWise.exe
